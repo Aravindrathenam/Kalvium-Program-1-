@@ -1,0 +1,41 @@
+Drawing App Functionality should update stroke color when the color picker changes
+Expected '#000000' to be '#ff0000'.
+Error: Expected '#000000' to be '#ff0000'.
+    at stack (http://127.0.0.1:5500/Kalvium-Program-1-/jasmine/jasmine-2.8.0/jasmine.js:2338:17)
+    at buildExpectationResult (http://127.0.0.1:5500/Kalvium-Program-1-/jasmine/jasmine-2.8.0/jasmine.js:2308:14)
+    at Spec.expectationResultFactory (http://127.0.0.1:5500/Kalvium-Program-1-/jasmine/jasmine-2.8.0/jasmine.js:858:18)
+    at Spec.addExpectationResult (http://127.0.0.1:5500/Kalvium-Program-1-/jasmine/jasmine-2.8.0/jasmine.js:487:34)
+    at Expectation.addExpectationResult (http://127.0.0.1:5500/Kalvium-Program-1-/jasmine/jasmine-2.8.0/jasmine.js:802:21)
+    at Expectation.toBe (http://127.0.0.1:5500/Kalvium-Program-1-/jasmine/jasmine-2.8.0/jasmine.js:2252:12)
+    at UserContext.<anonymous> (http://127.0.0.1:5500/Kalvium-Program-1-/tests/FunctionsTest.js:20:35)
+    at attempt (http://127.0.0.1:5500/Kalvium-Program-1-/jasmine/jasmine-2.8.0/jasmine.js:4289:46)
+    at QueueRunner.run (http://127.0.0.1:5500/Kalvium-Program-1-/jasmine/jasmine-2.8.0/jasmine.js:4217:20)
+    at QueueRunner.execute (http://127.0.0.1:5500/Kalvium-Program-1-/jasmine/jasmine-2.8.0/jasmine.js:4199:10)
+Drawing App Functionality should update the line width when the range input changes
+Uncaught TypeError: Cannot set properties of null (setting 'innerHTML') thrown
+Expected '1' to be '10'.
+Error: Expected '1' to be '10'.
+    at stack (http://127.0.0.1:5500/Kalvium-Program-1-/jasmine/jasmine-2.8.0/jasmine.js:2338:17)
+    at buildExpectationResult (http://127.0.0.1:5500/Kalvium-Program-1-/jasmine/jasmine-2.8.0/jasmine.js:2308:14)
+    at Spec.expectationResultFactory (http://127.0.0.1:5500/Kalvium-Program-1-/jasmine/jasmine-2.8.0/jasmine.js:858:18)
+    at Spec.addExpectationResult (http://127.0.0.1:5500/Kalvium-Program-1-/jasmine/jasmine-2.8.0/jasmine.js:487:34)
+    at Expectation.addExpectationResult (http://127.0.0.1:5500/Kalvium-Program-1-/jasmine/jasmine-2.8.0/jasmine.js:802:21)
+    at Expectation.toBe (http://127.0.0.1:5500/Kalvium-Program-1-/jasmine/jasmine-2.8.0/jasmine.js:2252:12)
+    at UserContext.<anonymous> (http://127.0.0.1:5500/Kalvium-Program-1-/tests/FunctionsTest.js:28:40)
+    at attempt (http://127.0.0.1:5500/Kalvium-Program-1-/jasmine/jasmine-2.8.0/jasmine.js:4289:46)
+    at QueueRunner.run (http://127.0.0.1:5500/Kalvium-Program-1-/jasmine/jasmine-2.8.0/jasmine.js:4217:20)
+    at QueueRunner.execute (http://127.0.0.1:5500/Kalvium-Program-1-/jasmine/jasmine-2.8.0/jasmine.js:4199:10)
+Drawing App Functionality should update the line width when the range input changes
+Uncaught TypeError: Cannot set properties of null (setting 'innerHTML') thrown
+Expected '1' to be '10'.
+Error: Expected '1' to be '10'.
+    at stack (http://127.0.0.1:5500/Kalvium-Program-1-/jasmine/jasmine-2.8.0/jasmine.js:2338:17)
+    at buildExpectationResult (http://127.0.0.1:5500/Kalvium-Program-1-/jasmine/jasmine-2.8.0/jasmine.js:2308:14)
+    at Spec.expectationResultFactory (http://127.0.0.1:5500/Kalvium-Program-1-/jasmine/jasmine-2.8.0/jasmine.js:858:18)
+    at Spec.addExpectationResult (http://127.0.0.1:5500/Kalvium-Program-1-/jasmine/jasmine-2.8.0/jasmine.js:487:34)
+    at Expectation.addExpectationResult (http://127.0.0.1:5500/Kalvium-Program-1-/jasmine/jasmine-2.8.0/jasmine.js:802:21)
+    at Expectation.toBe (http://127.0.0.1:5500/Kalvium-Program-1-/jasmine/jasmine-2.8.0/jasmine.js:2252:12)
+    at UserContext.<anonymous> (http://127.0.0.1:5500/Kalvium-Program-1-/tests/FunctionsTest.js:28:40)
+    at attempt (http://127.0.0.1:5500/Kalvium-Program-1-/jasmine/jasmine-2.8.0/jasmine.js:4289:46)
+    at QueueRunner.run (http://127.0.0.1:5500/Kalvium-Program-1-/jasmine/jasmine-2.8.0/jasmine.js:4217:20)
+    at QueueRunner.execute (http://127.0.0.1:5500/Kalvium-Program-1-/jasmine/jasmine-2.8.0/jasmine.js:4199:10)
